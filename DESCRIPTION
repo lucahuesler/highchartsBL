@@ -1,0 +1,11 @@
+Package: highchartsBL
+Type: Package
+Title: Creating Highcharts Vizualisations with Custom CI for the Canton of Basel-Landschaft
+Version: 0.1.0
+Author: Luca Hüsler
+Maintainer: The package maintainer <lucahuesler@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
